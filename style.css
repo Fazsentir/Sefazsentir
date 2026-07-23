@@ -178,4 +178,15 @@ p {
 
     }
 
+}@media (max-width: 600px) {
+
+    #texto {
+        font-size: 28px;
+        padding: 20px;
+    }
+
+    .container {
+        padding: 20px;
+    }
+
 }
